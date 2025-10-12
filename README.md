@@ -13,7 +13,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,python,mongodb,postgresql,docker,git,html,css,tailwind,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb,postgresql,html,css,tailwind,vscode&perline=8" />
 </p>
 
 ---

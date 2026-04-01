@@ -13,7 +13,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I'm a **Computer Science Engineering** student at **KLE Technological University** (5th semester)  
+- 🎓 I'm a **Computer Science Engineering** student at **KLE Technological University** (8th semester)  
 - 💻 Passionate about building **full-stack web applications** using modern frameworks  
 - 🧠 Focused on designing clean, scalable, and user-friendly systems  
 - 🎮 Fun fact: I enjoy **strategy games** — they keep my problem-solving sharp!

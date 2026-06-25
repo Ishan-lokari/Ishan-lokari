@@ -26,6 +26,6 @@ cat > README.md << 'EOF'
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,docker,gcp,terraform,jenkins,prometheus,grafana,&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,docker,gcp,terraform,jenkins,prometheus,grafana,alertmanager,&perline=7" />
 </p>
 EOF

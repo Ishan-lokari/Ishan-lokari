@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Full-Stack Developer | Cloud & DevOps Engineer</h3>
 
@@ -28,4 +28,4 @@ cat > README.md << 'EOF'
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,docker,gcp,terraform,jenkins,prometheus,grafana,alertmanager,&perline=7" />
 </p>
-EOF
+

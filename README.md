@@ -1,5 +1,6 @@
+cat > README.md << 'EOF'
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Computer Science & Engineering Student | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | Cloud & DevOps Engineer</h3>
 
 ---
 
@@ -13,18 +14,18 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I'm a **Computer Science Engineering** student at **KLE Technological University** (8th semester)  
-- 💻 Passionate about building **full-stack web applications** using modern frameworks  
-- 🧠 Focused on designing clean, scalable, and user-friendly systems  
-- 🎮 Fun fact: I enjoy **strategy games** — they keep my problem-solving sharp!
+- 🎓 **Computer Science & Engineering Graduate** — KLE Technological University
+- 💻 Passionate about building **full-stack web applications** using modern frameworks
+- ☁️ Hands-on with **GCP infrastructure** — provisioning VMs, VPCs, Load Balancers, Cloud NAT & Secret Manager using **Terraform**
+- 🔁 Experienced in building **CI/CD pipelines** with Jenkins — automating build, test, and deploy workflows triggered via GitHub webhooks
+- 🐳 Comfortable containerizing applications with **Docker** and managing image lifecycle through **Artifact Registry**
+- 🧠 Focused on designing clean, scalable, and production-ready systems
+
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb,html,css,js,docker,gcp,terraform,jenkins,&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,docker,gcp,terraform,jenkins,prometheus,grafana,&perline=7" />
 </p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+EOF
